@@ -1,0 +1,28 @@
+{
+  "id": 123,
+  "name": "Henry Smith",
+  "age": 28,
+  "salary": 2000,
+  "designation": "Programmer",
+  "address": {
+
+    "ad" : {
+      "street": "asas111",
+      "city": "qw",
+      "zipcode": 123,
+      "a":{
+        "street": "i5y",
+        "city": "qw",
+        "zipcode": 343
+      }
+    }
+  },
+  "phoneNumbers": [
+    654321,
+    222333
+  ],
+  "personalInformation": {
+    "gender": "Male",
+    "maritialstatus": "Married"
+  }
+}
